@@ -52,10 +52,6 @@ Creating a digital platform to preserve and promote the Okrika language, bridgin
       <br>WordPress
     </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/magento/magento-icon.svg" width="48" height="48" alt="Magento" />
-      <br>Magento
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
       <br>Postgres
     </td>
@@ -136,10 +132,6 @@ Creating a digital platform to preserve and promote the Okrika language, bridgin
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Tableau" />
       <br>Tableau
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/clerk_dev/clerk_dev-icon.svg" width="48" height="48" alt="Clerk" />
-      <br>Clerk
     </td>
   </tr>
 </table>
