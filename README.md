@@ -1,7 +1,7 @@
 # <div align="center">🚀 Crafting Digital Solutions That Matter</div>
 
 <div align="center">
-  <h2>Hi there 👋 I'm Boma N. Williams</h2>
+  <h2>Hi there 👋 I'm Boma Williams</h2>
   <h3>A Full-Stack Developer & Data Analyst with 10+ Years of Experience</h3>
 </div>
 
