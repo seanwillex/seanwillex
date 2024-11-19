@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>Hi there 👋 I'm Boma Williams</h2>
-  <h3>A Full-Stack Developer & Data Analyst</h3>
+  <h3>A Full-Stack Developer / Web3 / Data Analyst / MS SharePoint</h3>
 </div>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
