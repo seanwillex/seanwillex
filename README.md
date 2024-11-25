@@ -168,10 +168,5 @@ Creating a digital platform to preserve and promote the Okrika language, bridgin
 </table>
 </div>
 
-<div align="center">
-<h3>✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
 ---
 <div align="center">💡 Always open to collaborating on innovative projects and engaging in meaningful tech discussions!</div>
