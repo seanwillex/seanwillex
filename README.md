@@ -1,31 +1,60 @@
-# <div align="center">🚀 Crafting Digital Solutions That Matter</div>
-
 <div align="center">
   <h2>Hi there 👋 I'm Boma Williams</h2>
-  <h3>A Full-Stack Developer / Web3 / Data Analyst / MS SharePoint</h3>
+  <h3>I build and secure the digital systems institutions can't afford to have fail.</h3>
 </div>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seanwillex&label=Profile%20views&color=0e75b6&style=flat" alt="seanwillex" /> </p>
+Twelve years across central banking, multilateral development, licensed fintech,
+higher education and national elections. MSc Information Security.
+PhD candidate, Cybersecurity. Abuja, Nigeria.
 
-## 💫 About Me
+---
 
-- 🔭 Full-stack developer passionate about creating impactful solutions
-- 📊 Data analysis expert using Python, SQL, and Tableau
-- 🌱 Continuous learner and technology enthusiast
-- 🎯 Focus on bridging technology with real-world applications
+### Regulated and financial systems
+*Where money and identity live.*
 
-## 🚀 Current Projects
+- **Central Bank of Nigeria** — enterprise collaboration systems (SharePoint, MOOC)
+- **PurplePay** — licensed digital bank
+- **MyPasscoder** — KYC and payments infrastructure, $300K transaction volume, exited 2024
 
-### 🏫 University Information Management System
-Developing an integrated solution for Hensard University to enhance academic and administrative efficiency.
+### Institutional infrastructure
+*Whole IT estates, not features.*
 
-### 📊 Data Analysis & Polling Web App
-Building a sophisticated platform for election data analysis in Nigeria, empowering informed decision-making.
+- **Hensard University** — infrastructure, information management system, website,
+  and a permanent on-ground team
+- **World Bank** — technology consultancy; independent verification under the
+  World Bank-financed National Social Safety Nets programme (NASSCO)
 
-### 📚 Okrika Dictionary
-Creating a digital platform to preserve and promote the Okrika language, bridging cultural heritage with modern technology.
+### Systems under scrutiny
+*Where the consequences are national.*
+
+- **Democracy Watch** — election-monitoring platform, Bayelsa State, 2019
+- IT roles across two presidential elections
+- National digital operations at campaign scale
+
+---
+
+### About what's here
+
+Most of what I build sits inside institutions or under NDA. The public repositories
+are tooling and side work — WordPress security scanning, PDF data extraction,
+front-end experiments. The record above is the work; this list is the workshop.
+
+Currently building an integrated information management system for Hensard University,
+and the Okrika Dictionary — a digital platform for preserving the Okrika language.
+
+---
+
+### Stack
+
+Python · TypeScript · React / React Native / Next.js · Node · PHP
+PostgreSQL · MySQL · MongoDB · Supabase · AWS · Google Cloud · SharePoint · Tableau
+
+---
+
+**bomawilliams.com** · contact@bomawilliams.com
+[LinkedIn](https://linkedin.com/in/boma-williams) · [X](https://x.com/Boma_Wills)
 
 ## 🛠️ Technology Stack
 <div align="center">
@@ -134,39 +163,4 @@ Creating a digital platform to preserve and promote the Okrika language, bridgin
   </tr>
 </table>
 </div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-        <a href="https://twitter.com/Boma_Wills">
-            <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" />
-        </a>
-        <br>Twitter
-    </td>
-    <td align="center" width="96">
-        <a href="https://linkedin.com/in/Boma-Williams">
-            <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-        </a>
-        <br>LinkedIn
-    </td>
-    <td align="center" width="96">
-        <a href="https://discordapp.com/users/seanwillex">
-            <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
-        </a>
-        <br>Discord
-    </td>
-    <td align="center" width="96">
-        <a href="mailto:xbomawilliams@gmail.com">
-            <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
-        </a>
-        <br>Email
-    </td>
-  </tr>
-</table>
-</div>
-
----
-<div align="center">💡 Always open to collaborating on innovative projects and engaging in meaningful tech discussions!</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seanwillex&label=Profile%20views&color=0e75b6&style=flat" alt="seanwillex" /> </p>
