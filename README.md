@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there 👋 I'm Boma Williams</h2>
+  <h2>Boma Williams</h2>
   <h3>I build and secure the digital systems institutions can't afford to have fail.</h3>
 </div>
 
@@ -73,5 +73,3 @@ and the Okrika Dictionary — a digital platform for preserving the Okrika langu
 
 **bomawilliams.com** · contact@bomawilliams.com
 [LinkedIn](https://linkedin.com/in/boma-williams) · [X](https://x.com/Boma_Wills)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seanwillex&label=Profile%20views&color=0e75b6&style=flat" alt="seanwillex" /> </p>
